@@ -1,7 +1,7 @@
 {
-  "name": "advanced-js",
+  "name": "js-notes",
   "version": "1.0.0",
-  "description": "This is a note/reference of what is js and how js works",
+  "description": "This is notes/reference of js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
