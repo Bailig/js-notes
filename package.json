@@ -1,0 +1,12 @@
+{
+  "name": "advanced-js",
+  "version": "1.0.0",
+  "description": "This is a note/reference of what is js and how js works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bailig",
+  "license": "ISC",
+  "devDependencies": {}
+}
