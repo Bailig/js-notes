@@ -27,7 +27,7 @@ b.__proto__ = a; // caution: should not be used in real project
 console.log(b.b()); // b
 console.log(b.c()); // b 2
 
-// when we call 'b.b()', js engin first checks if object 'b' has that method. if not, it'll go up a chain and check
+// when we call 'b.b()', js engine first checks if object 'b' has that method. if not, it'll go up a chain and check
 
 // 2.
 console.log("2. ---");

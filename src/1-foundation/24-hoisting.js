@@ -25,7 +25,7 @@ var hoistedVar2 = "I'm hoisted, but as undefined";
 // variables are partially hoisted. when hoisting, variables will have their memory space allocated with value undefined
 // functions are fully hoisted. when hoisting, functions are stored in memory
 
-// 3. the js engin will not hoist the function because it's in a bracket
+// 3. the js engine will not hoist the function because it's in a bracket
 
 // console.log(notHoistedFunction()); // Uncaught ReferenceError: notHoistedFunction is not defined
 (function notHoistedFunction() {

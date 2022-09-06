@@ -23,5 +23,5 @@ const c = b();
 console.log(c);
 
 // closure is lexical scoping
-// scope chains [[Scopes]] will be created when js engin look through the code
+// scope chains [[Scopes]] will be created when js engine look through the code
 // it will keep the referenced variables

@@ -1,4 +1,4 @@
-// js engin will create a global execution context -> basically reads js file
+// js engine will create a global execution context -> basically reads js file
 // when executing a function, there is gonna be an execution context created
 // this execution context will be added to the call stack
 // the function will run in this execution context
@@ -6,7 +6,7 @@
 // when all js code has run the global execution context will be popped off
 
 // Creation phase
-// when the js engin run, the engin creates a execution context which provides
+// when the js engine run, the engine creates a execution context which provides
 // 1. Global object
 window;
 // 2. this
